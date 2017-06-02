@@ -1,0 +1,1 @@
+create table patient (name varchar(55) constraint primary key, dob varchar(55), ssn varchar(55), address varchar(55), phone varchar(55), email varchar(55), doctor varchar(55), hospital varchar(55))

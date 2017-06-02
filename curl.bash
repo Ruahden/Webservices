@@ -1,0 +1,1 @@
+curl -v -X POST -d @new_patient.json "http://139.162.33.147/phie/patient/add.php" --header "Content-Type: application/json"
